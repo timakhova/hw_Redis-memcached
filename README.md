@@ -20,3 +20,6 @@
 
 Задание 4. Запись данных в Redis
 
+![Redis](https://github.com/timakhova/hw_Redis-memcached/blob/main/4-redis.png)
+
+
