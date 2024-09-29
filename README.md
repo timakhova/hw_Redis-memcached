@@ -16,6 +16,7 @@
 
 Задание 3. Удаление по TTL в Memcached
 
+за 5 сек не успеваю :)
 ![TTL в Memcached](https://github.com/timakhova/hw_Redis-memcached/blob/main/3-telnet.png)
 
 Задание 4. Запись данных в Redis
