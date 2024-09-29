@@ -23,4 +23,6 @@
 
 ![Redis](https://github.com/timakhova/hw_Redis-memcached/blob/main/4-redis.png)
 
+Задание 5*. Работа с числами
 
+![incrby](https://github.com/timakhova/hw_Redis-memcached/blob/main/5-incrby.png)
