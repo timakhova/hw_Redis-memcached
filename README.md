@@ -12,4 +12,10 @@
 
 Задание 2. Memcached
 
+![Memcached](https://github.com/timakhova/hw_Redis-memcached/blob/main/2-memchavtive.png)
+
+Задание 3. Удаление по TTL в Memcached
+
+
+
 
